@@ -1,7 +1,7 @@
 import streamlit as st 
 import os
 from PIL import Image
-# from imference import img2text
+from imference import img2text
 
 st.title('NutriScan')
 
